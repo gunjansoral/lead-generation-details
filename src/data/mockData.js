@@ -18,131 +18,242 @@ export const leadData = {
   },
   history: [
     {
-      date: "1st March 2024",
-      eventTitle: "myautoIQ nurturing starts",
-      description:
-        "Buyer profile target - New or like-new Honda Civic, Budget - $20-25k.",
-      status: "completed",
+      id: "email-001",
+      subject: "2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "07 Oct 2024 07:33 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      metrics: {
+        sent: "07 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
     },
     {
-      date: "23rd June 2024",
-      eventTitle: "Test Drive Scheduled",
-      description: "Jill scheduled a test drive for the 2024 Honda Civic EX.",
-      status: "in-progress",
+      id: "email-002",
+      subject: "2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "07 Oct 2024 07:33 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      metrics: {
+        sent: "07 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
     },
     {
-      date: "23rd October 2024",
-      eventTitle: "Revival Lead In",
-      description: "Jill visited the showroom and inquired about the car.",
-      status: "completed",
+      id: "email-003",
+      subject: "2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "07 Oct 2024 07:33 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      metrics: {
+        sent: "07 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
     },
     {
-      date: "5th February 2024",
-      eventTitle: "Email Campaign Sent",
-      description: "Sent email campaign regarding the 2023 Honda Civic deals.",
-      status: "completed",
+      id: "email-004",
+      subject: "2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "07 Oct 2024 07:33 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      metrics: {
+        sent: "07 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
     },
     {
-      date: "12th February 2024",
-      eventTitle: "Opened Campaign Email",
-      description: "Jill opened the email about 2023 Honda Civic promotions.",
-      status: "completed",
+      id: "email-005",
+      subject: "2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "07 Oct 2024 07:33 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      metrics: {
+        sent: "07 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
     },
     {
-      date: "15th February 2024",
-      eventTitle: "Follow-up Call",
-      description: "Sales rep followed up on the email campaign.",
-      status: "completed",
+      id: "email-006",
+      subject: "Re: 2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "15 Oct 2024 09:24 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      metrics: {
+        sent: "15 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
     },
     {
-      date: "20th February 2024",
-      eventTitle: "Customer Inquiry",
-      description: "Jill inquired about financing options for 2023 Honda Civic.",
-      status: "completed",
+      id: "email-007",
+      subject: "Like-New Saving: 2022 Honda CR-V",
+      sentDate: "27 Oct 2024 05:53 PM",
+      crmStatus: "This message was not added to the lead activity.",
+      metrics: {
+        sent: "27 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
     },
     {
-      date: "25th February 2024",
-      eventTitle: "Showroom Visit Scheduled",
-      description: "Jill scheduled a visit to the showroom.",
-      status: "in-progress",
-    },
-    {
-      date: "27th February 2024",
-      eventTitle: "Showroom Visit Completed",
-      description: "Jill visited the showroom and explored multiple vehicles.",
-      status: "completed",
-    },
-    {
-      date: "2nd March 2024",
-      eventTitle: "Quote Sent",
-      description:
-        "Sent Jill a personalized quote for the 2023 Honda Civic EX.",
-      status: "completed",
-    },
-    {
-      date: "5th March 2024",
-      eventTitle: "Price Negotiation",
-      description:
-        "Jill engaged in a price negotiation for the 2023 Honda Civic.",
-      status: "in-progress",
-    },
-    {
-      date: "10th March 2024",
-      eventTitle: "Negotiation Ended",
-      description:
-        "Negotiation failed as Jill decided to wait for newer models.",
-      status: "failed",
-    },
-    {
-      date: "15th March 2024",
-      eventTitle: "New Campaign Sent",
-      description: "Sent promotional offers for 2024 Honda Civic.",
-      status: "completed",
-    },
-    {
-      date: "20th March 2024",
-      eventTitle: "Lead Dormant",
-      description: "No further engagement from Jill for a month.",
-      status: "pending",
-    },
-    {
-      date: "15th April 2024",
-      eventTitle: "Re-engagement Email Sent",
-      description:
-        "Re-engagement email sent to Jill about financing flexibility.",
-      status: "completed",
-    },
-    {
-      date: "20th April 2024",
-      eventTitle: "Email Opened",
-      description:
-        "Jill opened the re-engagement email but no further action was taken.",
-      status: "completed",
-    },
-    {
-      date: "1st May 2024",
-      eventTitle: "Seasonal Discounts Campaign",
-      description: "Seasonal discounts on 2024 Honda Civic shared with Jill.",
-      status: "completed",
-    },
-    {
-      date: "10th May 2024",
-      eventTitle: "Showroom Visit Scheduled",
-      description: "Jill scheduled another visit for the 2024 Honda Civic.",
-      status: "in-progress",
-    },
-    {
-      date: "12th May 2024",
-      eventTitle: "Showroom Visit Completed",
-      description: "Jill test drove the 2024 Honda Civic EX.",
-      status: "completed",
-    },
-    {
-      date: "15th May 2024",
-      eventTitle: "Final Negotiation",
-      description:
-        "Jill finalized the deal and agreed on financing terms for the 2024 Honda Civic EX.",
-      status: "completed",
+      id: "email-008",
+      subject: "Re: Like-New Saving: 2022 Honda CR-V",
+      sentDate: "04 Nov 2024 07:50 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      metrics: {
+        sent: "04 Nov 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
     },
   ],
-}
+};
+
+export const leadDataEmails = {
+  emails: [
+    {
+      id: "email-001",
+      subject: "2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "07 Oct 2024 07:33 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      content: `
+        The 2025 Honda Pilot EX-L offers advanced safety features, a spacious interior, and a smooth driving experience. Perfect for families and adventurers, the EX-L trim includes leather upholstery, a power moonroof, and advanced navigation.
+        
+        Leasing options starting at $459/mo. Available for a limited time at Altoona Honda.
+      `,
+      metrics: {
+        sent: "07 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
+    },
+    {
+      id: "email-002",
+      subject: "2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "07 Oct 2024 07:33 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      content: `
+        The 2025 Honda Pilot EX-L offers advanced safety features, a spacious interior, and a smooth driving experience. Perfect for families and adventurers, the EX-L trim includes leather upholstery, a power moonroof, and advanced navigation.
+        
+        Leasing options starting at $459/mo. Available for a limited time at Altoona Honda.
+      `,
+      metrics: {
+        sent: "07 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
+    },
+    {
+      id: "email-003",
+      subject: "2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "07 Oct 2024 07:33 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      content: `
+        The 2025 Honda Pilot EX-L offers advanced safety features, a spacious interior, and a smooth driving experience. Perfect for families and adventurers, the EX-L trim includes leather upholstery, a power moonroof, and advanced navigation.
+        
+        Leasing options starting at $459/mo. Available for a limited time at Altoona Honda.
+      `,
+      metrics: {
+        sent: "07 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
+    },
+    {
+      id: "email-004",
+      subject: "2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "07 Oct 2024 07:33 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      content: `
+        The 2025 Honda Pilot EX-L offers advanced safety features, a spacious interior, and a smooth driving experience. Perfect for families and adventurers, the EX-L trim includes leather upholstery, a power moonroof, and advanced navigation.
+        
+        Leasing options starting at $459/mo. Available for a limited time at Altoona Honda.
+      `,
+      metrics: {
+        sent: "07 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
+    },
+    {
+      id: "email-005",
+      subject: "2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "07 Oct 2024 07:33 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      content: `
+        The 2025 Honda Pilot EX-L offers advanced safety features, a spacious interior, and a smooth driving experience. Perfect for families and adventurers, the EX-L trim includes leather upholstery, a power moonroof, and advanced navigation.
+        
+        Leasing options starting at $459/mo. Available for a limited time at Altoona Honda.
+      `,
+      metrics: {
+        sent: "07 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
+    },
+    {
+      id: "email-006",
+      subject: "Re: 2025 Honda Pilot EX-L $459/Mo Lease*",
+      sentDate: "15 Oct 2024 09:24 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      content: `
+        Thank you for your interest in the 2025 Honda Pilot EX-L. We would be delighted to discuss how this premium SUV can meet your needs. Remember, our $459/mo lease offer is available for a limited time.
+        
+        Reach out to us for more information or schedule a test drive at Altoona Honda.
+      `,
+      metrics: {
+        sent: "15 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
+    },
+    {
+      id: "email-007",
+      subject: "Like-New Saving: 2022 Honda CR-V",
+      sentDate: "27 Oct 2024 05:53 PM",
+      crmStatus: "This message was not added to the lead activity.",
+      content: `
+        The 2022 Honda CR-V is a compact SUV known for its excellent fuel efficiency, spacious cabin, and advanced safety features. Perfect for urban commutes and road trips alike, it offers an unmatched balance of comfort and practicality.
+        
+        Discover this Certified Used 2022 Honda CR-V EX at Altoona Honda with a special Q-Certified Warranty for peace of mind.
+      `,
+      metrics: {
+        sent: "27 Oct 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
+    },
+    {
+      id: "email-008",
+      subject: "Re: Like-New Saving: 2022 Honda CR-V",
+      sentDate: "04 Nov 2024 07:50 AM",
+      crmStatus: "This message was not added to the lead activity.",
+      content: `
+        Thank you for considering the 2022 Honda CR-V. This compact SUV combines reliability with performance, ensuring every drive is smooth and enjoyable. Contact us today to learn more about our Certified Used inventory and take advantage of exclusive savings.
+        
+        The team at Altoona Honda is here to assist you in finding your perfect vehicle.
+      `,
+      metrics: {
+        sent: "04 Nov 2024",
+        opened: "-",
+        clicked: "-",
+        replied: "-",
+      },
+    },
+  ],
+};
+
