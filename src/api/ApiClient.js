@@ -30,7 +30,7 @@ class ApiClient {
       setTimeout(() => {
         if (item) resolve(item);
         else reject(new Error(`Item with ID ${id} not found`));
-      }, 500);
+      }, 1000);
     });
   }
 
