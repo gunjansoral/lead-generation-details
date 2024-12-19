@@ -49,26 +49,21 @@ To run this project on your local machine, follow these steps:
 2. Navigate to the project directory:
 
    ```bash
-Copy code
-cd lead-generation-details
+   cd lead-generation-details
 3. Pull the latest changes from the main branch:
 
     ```bash
-Copy code
-git pull origin main
+   git pull origin main
 3. Install dependencies:
 
     ```bash
-Copy code
-npm install
+   npm install
 4. Start the development server:
 
     ```bash
-Copy code
-npm run dev
+   npm run dev
 5. Open your browser and visit:
 
     ```bash
-Copy code
-http://localhost:5173
+   http://localhost:5173
 Note: By default, Vite uses port 5173. If this port is already in use, Vite will assign a different port, which will be displayed in the terminal when you run npm run dev.
